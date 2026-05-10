@@ -1,0 +1,3 @@
+module.exports=[81301,a=>{a.v({className:"outfit_9f4f9187-module__4LtYgq__className",variable:"outfit_9f4f9187-module__4LtYgq__variable"})},71464,a=>{"use strict";var b=a.i(40550),c=a.i(81301);let d={className:c.default.className,style:{fontFamily:"'Outfit', 'Outfit Fallback'",fontStyle:"normal"}};null!=c.default.variable&&(d.variable=c.default.variable),a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:`${d.variable} font-sans antialiased`,children:a})})},"metadata",0,{title:"Nano Banana | Future of Freshness",description:"Premium scrollytelling commerce for fresh cold-pressed juices."}],71464)},82470,a=>{a.n(a.i(71464))}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__09gpazq._.js.map
