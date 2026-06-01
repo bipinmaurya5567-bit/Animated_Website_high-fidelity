@@ -38,3 +38,19 @@ Fully exploded — technical diagram view
 Components highlight
 109–120
 Reassembly to final hero
+
+📁 Project Structure
+├── app/          # Next.js App Router pages
+├── components/   # Reusable UI components
+├── data/         # Static data files
+├── public/images # Static assets
+└── src/          # Source files
+
+📝 Notes
+Dev server uses webpack due to Windows platform limitations
+Build: npm run build (uses webpack)
+📄 License
+MIT License
+---
+
+Just copy everything between the outer code fences and paste it into your `README.md` file, then push using the git commands from before.
